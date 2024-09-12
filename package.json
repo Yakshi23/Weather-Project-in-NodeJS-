@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express.js": "^1.0.0",
+    "nodemon": "^3.1.4",
+    "requests": "^0.3.0"
+  },
+  "name": "nodejs-weather-project",
+  "version": "1.0.0",
+  "description": "Weather project using node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yakshi",
+  "license": "ISC"
+}
